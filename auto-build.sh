@@ -16,4 +16,4 @@ sleep 2s
 #sudo docker run -d --name ${USER}-api -p 8080:8080 ${USER}
 sudo docker run -d --name ${USER}-api -p 8080:8080 -v /home/rest-demo/images:/images ${USER}
 
-echo "Success @@@@@&&&&&&"
+echo "Success 2222"
